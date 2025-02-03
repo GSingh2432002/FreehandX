@@ -64,7 +64,7 @@ excalidraw-clone/
 ### Installation
 
 ```sh
-git clone https://github.com/yourusername/excalidraw-clone.git
+git clone https://github.com/GSingh2432002/excalidraw-clone.git
 cd excalidraw-clone
 npm install
 ```
