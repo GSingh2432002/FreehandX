@@ -1,4 +1,4 @@
-# Excalidraw
+# NinjaSketch
 
 An Excalidraw clone with React and TypeScript. Rough.js is used for the sketchy, hand-drawn style. I built the side project for learning purposes. I mainly focused on the functionalities since I already have plenty of projects that are responsive.
 
@@ -10,7 +10,7 @@ An Excalidraw clone with React and TypeScript. Rough.js is used for the sketchy,
 - `Rough.js`
 - `CSS`
 - `Vitest`
-- `Cypress`
+- `Cypress` 
 - `Testing Library`
 
 ## Features
@@ -52,6 +52,10 @@ Finally, I added testing with Cypress and Testing Library. I conducted end-to-en
 Along the way, while building everything, I took notes on what I've learned so I don't miss out on it. I also documented the behind-the-scenes processes every time a feature was added.
 
 This way, I understood what I've built. The funny thing is, as soon as I started to document what happened behind the scenes and the features I've added, it made me realize that we fully understand something once we've actually taken a step back, thought about it, and documented what we've done. I think this is a good practice to follow when learning something new.
+
+## What I Learned
+
+During this project, I've picked up important skills and a better understanding of complex ideas, which improved my logical thinking.
 
 ### `useHistory` Hook:
 
@@ -100,7 +104,3 @@ To run the project in your local environment, follow these steps:
 2. Run `npm install` or `yarn` in the project directory to install the required dependencies.
 3. Run `npm run start` or `yarn start` to get the project started.
 4. Open [http://localhost:5173](http://localhost:5173) (or the address shown in your console) in your web browser to view the app.
-
-## Video
-
-https://github.com/mirayatech/NinjaSketch/assets/71933266/6a16c9e5-6380-4317-96e7-d132768f7b40
