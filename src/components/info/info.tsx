@@ -33,7 +33,7 @@ export function Info() {
           id="customized-dialog-title"
           className="DialogTitle"
         >
-          How to Use Excalidraw
+          How to Use FreehandX
         </DialogTitle>
         <IconButton
           aria-label="close"
@@ -49,7 +49,7 @@ export function Info() {
           <CloseIcon className="CloseIcon" />
         </IconButton>
         <div className="infoContent">
-          <p>Welcome to Excalidraw! Get started with these simple steps:</p>
+          <p>Welcome to FreehandX! Get started with these simple steps:</p>
           <ul>
             <li>
               <strong>Choose a Tool:</strong> Select from pencil, line,
