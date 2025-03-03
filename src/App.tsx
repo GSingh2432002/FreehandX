@@ -16,7 +16,7 @@ import {
   Tools,
   ActionsType,
 } from "./types";
-import { ActionBar, ControlPanel, Info } from "./components";
+import { ActionBar, ControlPanel } from "./components";
 import {
   adjustElementCoordinates,
   adjustmentRequired,
@@ -383,7 +383,7 @@ export default function App() {
 
   return (
     <div>
-      <Info />
+      {/* <Info /> */}
       <ActionBar tool={tool} setTool={setTool} />
       <ControlPanel
         undo={undo}

@@ -62,9 +62,8 @@ export function ControlPanel({
           </Tippy>
         </div>
       </div>{" "}
-      <a className="link" href="https://github.com/mirayatech" target="_blank">
+      <a className="link" href="https://github.com/GSingh2432002" target="_blank">
         <FiGithub />
-        Created by Miraya
       </a>
     </>
   );

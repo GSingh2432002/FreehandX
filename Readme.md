@@ -53,19 +53,6 @@ Along the way, while building everything, I took notes on what I've learned so I
 
 This way, I understood what I've built. The funny thing is, as soon as I started to document what happened behind the scenes and the features I've added, it made me realize that we fully understand something once we've actually taken a step back, thought about it, and documented what we've done. I think this is a good practice to follow when learning something new.
 
-## What I Learned
-
-During this project, I've picked up important skills and a better understanding of complex ideas, which improved my logical thinking.
-
-### `useHistory` Hook:
-
-- **Logical Thinking**: Creating the `useHistory` hook taught me to think about how to manage saving, undoing, and redoing actions. I had to really understand how to track changes and plan out user actions.
-
-### Coordinates and Measurements:
-
-- **Accuracy**: I've become better at working with shapes and points, like knowing if a point is inside a shape. This required careful measurements.
-- **Math Skills**: I used math functions to make sure everything was placed correctly and to calculate distances.
-
 ### Discovering Rough.js:
 
 - **New Tools**: I found out about Rough.js, which lets me make graphics look hand-drawn. This was a new and exciting tool for me.
@@ -85,22 +72,3 @@ During this project, I've picked up important skills and a better understanding 
 ### Advanced Event Handling:
 
 - **User Interaction**: I worked with the wheel event listener, which allowed me to add zooming and panning features. This made the app more interactive and user-friendly.
-
-## How can it be improved?
-
-- Add more colors to the color picker.
-- Add more tools like a circle, eraser, and more.
-- Add more shapes like triangles, stars, and more.
-- Add more keyboard shortcuts to make things faster.
-- Add more themes like dark mode, light mode, and more.
-- Add more text options like font size, font color, and more.
-- Instead of have any in two places, create a type for the rough.js elements.
-
-## Running the Project
-
-To run the project in your local environment, follow these steps:
-
-1. Clone the repository to your local machine.
-2. Run `npm install` or `yarn` in the project directory to install the required dependencies.
-3. Run `npm run start` or `yarn start` to get the project started.
-4. Open [http://localhost:5173](http://localhost:5173) (or the address shown in your console) in your web browser to view the app.
