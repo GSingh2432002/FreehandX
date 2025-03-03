@@ -3,16 +3,16 @@
 :root {
   --primary: #6965db;
   --primary-hover: #5753d0;
-  --primary-bg-color: white;
-  --secondary-bg-color: #f0efff;
-  --selected-bg-color: #e0dfff;
+  --primary-bg-color: #ffffff;
+  --secondary-bg-color: #f1efe1;
+  --selected-bg-color: #F4EFCA;
   --primary-text-color: #27272c;
   --secondary-text-color: #b8b8b8;
   --highlight-color: #030064;
   --border-color: #e7e6f7;
   --shadow-color: rgba(0, 0, 0, 0.1);
-  --hover-bg-color: #e5e5fb;
-  --panel-bg-color: #e7e7ee;
+  --hover-bg-color: #efecdb;
+  --panel-bg-color: #e4e1c3;
 }
 
 * {
